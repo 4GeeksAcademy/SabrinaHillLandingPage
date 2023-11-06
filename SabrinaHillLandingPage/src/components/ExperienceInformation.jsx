@@ -11,7 +11,7 @@ function ExperienceInformation() {
                 <li>Digital Signage Champion charged with updating the digital signage in the call center which highlighted changes to current process and policies, Celebrations of Anniversaries, Birthdays, and Top Performers.</li>
                 <li>Used Tableau to track key performance indicators (KPIs) related to customer experience, such as customer satisfaction scores and Net Promoter Score (NPS), as well as explore data in-depth and perform drill-down analyses.</li>
             </ul>
-
+            
             <p>02/2004 - 03/2006</p>
             <p>InteleTech Corporation of America | Fort Lauderdale,FL</p>
             <h3>Computer Programer/Network Administrator</h3>
