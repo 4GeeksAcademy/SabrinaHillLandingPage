@@ -1,3 +1,3 @@
 Personal Landing Page
 
-https://4geeksacademy.github.io/SabrinaHillLandingPage/
+https://sabrina-hill-landing-page.vercel.app/
