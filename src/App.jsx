@@ -13,7 +13,7 @@ function App() {
     <div class="container">
     <div className="two-columns-container">
       <div className="column" id="column1">
-        <img src="/src/assets/SabrinaHill Profile Pic2023.png" id="profile" alt="Profile Pic"></img>
+        <img src="/SabrinaHill Profile Pic2023.png" id="profile" alt="Profile Pic"></img>
         <ContactInformation/>
         <EducationInformation/>
         <ExpertiseInformation/>
