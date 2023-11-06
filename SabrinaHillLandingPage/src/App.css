@@ -1,0 +1,101 @@
+html {
+  scroll-behavior: smooth !important;
+}
+#root {
+  display: flexbox;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.column {
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: 10px;
+}
+.two-colums-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+#profile {
+  max-width: 250px;
+  max-height: 250px;
+  border-radius: 15px;
+  align-items: center;
+}
+#column1 {
+  background-color: rgb(73, 72, 72);
+  color: whitesmoke;
+  max-width: 250px;
+}
+#column2 {
+  background-color: whitesmoke;
+  max-width: 650px;
+}
+.contactInfo {
+text-align: left;
+margin: 0 5px 0 0;
+padding: 0;
+font-size: 14px;
+}
+.educationInfo {
+  text-align: left;
+  margin: 0 5 0 0;
+  padding: 0;
+  font-size: 14px;
+}
+.expertiseInfo {
+  text-align: left;
+  margin: 0 5 0 0;
+  padding: 0;
+  font-size: 14px;
+}
+.experienceInfo{
+  text-align: left;
+  margin: 0 5 0 0;
+  padding: 2px 0;
+  font-size: 14px;
+  border: 3px solid black;
+}
+.aboutMe {
+  border: 3px solid black;
+  margin-bottom: 15px !important;
+  text-align: left;
+  margin: 0px 0 ; 
+  padding: 0;
+}
+.land li {
+  display: block;
+  float: left;
+  border-right: 1px solid #bbb;
+  text-align: center;
+}
+li:last-child {
+  border-right: none;
+}
+.land a{
+  display: flexbox;
+  list-style-type: none;
+  padding: 8px;
+  background-color: black;
+  color: white;
+}
+li a:hover {
+  background-color: burlywood;
+}
+.land .active {
+  background-color:chocolate;
+}
+.experienceInfo p,
+.experienceInfo h3 {
+  margin: 0px 0 5px; 
+  padding: 0; 
+}
+
+.aboutMe p,
+.aboutMe h3 {
+  margin: 0px 0 5px; 
+  padding: 0; 
+}
